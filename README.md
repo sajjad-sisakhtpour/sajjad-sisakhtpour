@@ -55,3 +55,4 @@ I'm always looking to connect with like-minded developers and innovators. If you
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
