@@ -55,4 +55,5 @@ I'm always looking to connect with like-minded developers and innovators. If you
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-sisakhtpour&show_icons=true&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad-sisakhtpour&theme=tokyonight)
