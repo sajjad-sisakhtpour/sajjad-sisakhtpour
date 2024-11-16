@@ -57,3 +57,9 @@ I'm always looking to connect with like-minded developers and innovators. If you
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-sisakhtpour&show_icons=true&count_private=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad-sisakhtpour&theme=tokyonight)
+
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajjad-sisakhtpour&theme=tokyonight) -->
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajjad-sisakhtpour&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=sajjad-sisakhtpour&color=blueviolet) -->
